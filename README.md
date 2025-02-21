@@ -1,6 +1,21 @@
 # Namaste React 
 # Swiggy-2.0-React
 
+# Food ordering app
+/**
+ * Header
+ * -Logo
+ * - Nav items
+ * Body
+ * - Search bar
+ * - RestaurantContainer
+ *   - RestaurantCard
+ * Footer
+ * - Copyright
+ * - Links
+ * - Address
+ * - Contact
+ */
 
 # Parcel
 - Dev build
@@ -20,3 +35,8 @@
 - HTTPs
 - Tree Shaking - remove unused code
 - Differnt dev and prod bundles
+
+# React Hooks
+Normal JS Utility functions
+useState() - superpowerful state variables in react
+useEffect()
